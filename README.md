@@ -5,6 +5,12 @@
 
 <br/>
 
+## Read my paper here: 
+
+[Bountiful.pdf](https://github.com/kudzaijaure-dot/Bountiful/files/12645257/Bountiful.pdf)
+
+
+
 ## A secure, end-to-end Web 3.0 crowdfunding platform that runs on Etherium blockchain
 
 Welcome to Bountiful, the blockchain-based crowdfunding platform that is changing the game for fundraising. Built with thirdweb and solidity, including tailwind css and vite.js, Bountiful is the most secure and transparent way to raise funds for your project or cause.
